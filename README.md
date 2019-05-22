@@ -17,7 +17,7 @@
 
   request_model 请求模块，异常重试或使用代理
 
-  ip_poll 代理池维护模块
+  ip_pool 代理池维护模块
 
   get_url_list 列表页请求模块
 
