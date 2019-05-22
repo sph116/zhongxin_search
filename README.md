@@ -31,4 +31,6 @@ mysql_model 数据库增删改查
 
 需要更换mysql_model 数据库信息
 
+列表页抓取需定义
+
 启动Spider_action_detail会自动创建相关数据库及文本路径信息
