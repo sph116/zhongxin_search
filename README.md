@@ -27,5 +27,8 @@ mysql_model 数据库增删改查
 
 
 注：
-需更换ip_poll代理api
-需要更换mysql_model 数据库信息，启动Spider_action_detail会自动创建相关数据库及文本路径信息
+需更换ip_poll模块下代理api
+
+需要更换mysql_model 数据库信息
+
+启动Spider_action_detail会自动创建相关数据库及文本路径信息
