@@ -4,7 +4,7 @@
 已集成多线程，url查重，异常更换代理。
 环境：
 py3.7
-第三方库：
+第三方库：\N
 requests pymysql lxml
 模块功能：
 Spider_action 多线程调度以及程序启动
