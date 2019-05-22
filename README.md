@@ -12,12 +12,19 @@ requests pymysql lxml
 
 功能模块：
 Spider_action 多线程调度以及程序启动
+
 save_text 文本分类存储
+
 request_model 请求模块，异常重试或使用代理
+
 ip_poll 代理池维护模块
+
 get_url_list 列表页请求模块
+
 get_detail_page 详情页请求模块
+
 mysql_model 数据库增删改查
+
 
 注：
 需更换ip_poll代理api
