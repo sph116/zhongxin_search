@@ -1,5 +1,5 @@
 # zhongxin_search
-中国新闻网爬虫
+# 中国新闻网爬虫
 
 中国新闻网高级搜索接口爬虫  http://sou.chinanews.com/search.do?q=%E7%9A%84  搜索关键字 “的” （详情页数量600万）
 
@@ -8,13 +8,13 @@
 
 适用于文本分析，文本分类。词向量提取
 
-环境：
+# 环境：
   py3.7
 
-第三方库：
+# 第三方库：
   requests pymysql lxml
 
-功能模块：
+# 功能模块：
 * Spider_action 多线程调度以及程序启动
 
 * save_text 文本分类存储
@@ -30,7 +30,7 @@
 * mysql_model 数据库增删改查
 
 
-注：
+# 注：
 * 过于久远的详情页页面规则会改动，需要自行维护。
 
 * 需更换ip_poll模块下代理api
